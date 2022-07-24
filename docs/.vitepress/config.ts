@@ -31,6 +31,14 @@ export default {
         ]
       },
       {
+        text: '03. Strings',
+        collapsible: true,
+        items: [
+          { text: 'Introduction', link: '/strings/introduction' },
+          { text: 'Code', link: '/strings/code' },
+        ]
+      },
+      {
         text: 'About',
         collapsible: true,
         items: [
